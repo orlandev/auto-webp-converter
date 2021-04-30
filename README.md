@@ -1,5 +1,5 @@
 # auto-webp-converter
-Automatic Webp converter. Convert all your png or jpg to webp format... creted for Inmersoft projects. 
+Automatic Webp converter. Convert all your png or jpg to webp format... created for Inmersoft projects. 
 
 You need read the official information
 
